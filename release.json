@@ -1,14 +1,14 @@
 {
-  "bytes": 13635,
+  "bytes": 13717,
   "files": {
     "Enroll-ReasonBridge.ps1": "fae0310c6c9579b52e9c8b8fe5bda398590d1697be7cb6e4374b37147b921241",
     "Invoke-ReasonBridge.ps1": "73cd9f328f88aeafafc2c06d018eb9a44d8db1eadf6448c5c3c795ca7cdc33b1",
     "README.txt": "66470c2616da513b4e5709f80277db420c6227765ee3d10a9643473ac36fe110",
     "Run-Setup.cmd": "40b932bb7d064cc75b0413a066af94bfc0be688960dfe090a447fb39f19f20fe",
     "Setup-ReasonBridge.ps1": "1aea8d00fd6a023033e0db6899d8a8cb957f593b1f58840542b5233a91dce5e9",
-    "task-client.ps1": "ec5e3445a471bb20dacd4b6baef57f36073866313b5ce7f80371c796bf1bde50"
+    "task-client.ps1": "50984b6c31f1dd371023574ae334969a4be2321dd2f93d0a7a0b821968d2576c"
   },
-  "package": "ReasonBridge-Windows-Setup.zip",
-  "sha256": "52f966a28cef0617c5daa95f69b6598d44d03cc3d1e17de5a5bc4b4d73be646d",
-  "version": "1.0.0"
+  "package": "ReasonBridge-Windows-Setup-1.0.1.zip",
+  "sha256": "7da8627818d43450c033cc981554ee64015e45a321b0d18551ff089904f08624",
+  "version": "1.0.1"
 }
