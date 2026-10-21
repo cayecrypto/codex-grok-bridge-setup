@@ -1,1 +1,1 @@
-c734dd697b8575356058bf4eed871cde299f1457986ba7077379f29e7039ba24  ReasonBridge-Windows-Setup-1.0.2.zip
+c8c76ae24d81c1c5faba6c4d06b63b0c662690b25df9bf89e8675276a219e88e  ReasonBridge-Windows-Setup-1.0.3.zip
