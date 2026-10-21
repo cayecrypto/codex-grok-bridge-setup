@@ -1,0 +1,14 @@
+{
+  "package": "ReasonBridge-Tailscale-Preview.zip",
+  "sha256": "41d51b3ea9cf0fdc241e673822dcf8f4da3c4a649b53c5a4479b42a1480633cc",
+  "bytes": 10572,
+  "files": {
+    "Setup-PrivateBridge.ps1": "0aa0fecd828bdc7f099a2c6f590a3e78077541e7a3265ff526d32ad3a207a968",
+    "Tailscale-Prerequisite.ps1": "ef29895b8ab359cb1f939c5faa82f53b66b0b5a7faeeb1d742e3e1166b7b2219",
+    "Private-Transport.ps1": "1f280ea79ec3ea635c5c656772ef664f6025759cca5b1b1711ebf839d1513bda",
+    "Invoke-PrivateBridge.ps1": "189b0dce96edf12f32c738b43b0c613d7a077f9d87abe7c3a7df3bea656632db",
+    "Invoke-ReasonBridge.ps1": "189b0dce96edf12f32c738b43b0c613d7a077f9d87abe7c3a7df3bea656632db",
+    "Run-Preview-Setup.cmd": "8db67cf148e713048d40ce5f1b785b93d8f7fa3996678b2f10775067fc4633e5",
+    "README.txt": "68f4e1a62fd2e6e2bd66b368639133307508cd3a26d39a2155427c689d4e5585"
+  }
+}
