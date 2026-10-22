@@ -1,1 +1,1 @@
-4bfcb3e8221cdd2639f7595dae47fd749e43fece8552f4428958762239c4987a  ReasonBridge-Windows-Setup-1.0.4.zip
+4fc4c2141f4aa36485ba189472496158cdbecbc24f18054b62345e1903c77f89  ReasonBridge-Windows-Setup-1.0.5.zip
